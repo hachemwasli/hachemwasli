@@ -92,9 +92,5 @@ Windows                  17 hrs 5 mins       ███████████�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachemwasli&show_icons=true)
 
 <br><br>
-
-
-
 <hr>
 <!--END_SECTION:waka-->
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
