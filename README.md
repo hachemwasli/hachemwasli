@@ -20,7 +20,7 @@ const anmol = {
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Angular", "Vue"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
@@ -32,7 +32,7 @@ const anmol = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing a web application to collect functional information on proteins using angular",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
