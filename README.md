@@ -7,7 +7,6 @@
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hachemwasli) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hachemwasli) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/HachemOuasli) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/ouasli.hachem/)
-<!--
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
