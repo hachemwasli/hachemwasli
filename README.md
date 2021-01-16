@@ -42,8 +42,8 @@ const hachem = {
 <em><b> I'm an aspiring Tunisian <img width="22px" src="https://images.emojiterra.com/twitter/512px/1f1f9-1f1f3.png"> developer looking for the next challenge </b> 😊</em>
 - I'm currently doing my last semester in Germany <img width="22px" src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e9-1f1ea.png">
 - I'm open for graduation internships (6 months) ✈️
-- Experienced with Spring Boot - Angular development <img width="22px" src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598" />
-- Passionate Software Engineer looking for internships in web development and data science <img alt="flutter" width="35px" src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" />
+- Experienced with Spring Boot - Angular development
+- Passionate Software Engineer looking for internships in web development and data science
 - Experience with NodeJS and Express to create Back-ends for applications  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 ---
 <!--START_SECTION:waka-->
