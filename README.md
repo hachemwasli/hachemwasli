@@ -39,7 +39,7 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-## I'm an aspiring Tunisian <img width="22px" src="https://images.emojiterra.com/twitter/512px/1f1f9-1f1f3.png"> developer looking for the next challenge 
+<em><b> I'm an aspiring Tunisian <img width="22px" src="https://images.emojiterra.com/twitter/512px/1f1f9-1f1f3.png"> developer looking for the next challenge </b> 😊</em>
 - I'm currently doing my last semester in Germany <img width="22px" src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e9-1f1ea.png">
 - I'm open for graduation internships (6 months) ✈️
 - Experienced with Spring Boot - Angular development <img width="22px" src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598" />
