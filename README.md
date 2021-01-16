@@ -1,4 +1,5 @@
 <h2>مرحبا (Hallo)🙏🏻, I'm Hachem Wasli! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+[![Website](https://img.shields.io/website?label=hachemwasli.github.io&style=for-the-badge&url=https%3A%2F%2Fhachemwasli.github.io%2F)](https://hachemwasli.github.io/)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web Developer Intern at <a href="https://www.majesteye.com/">MajestEye</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -7,7 +8,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/HachemOuasli?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-hachem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hachemwasli/)](https://www.linkedin.com/in/hachemwasli/)
-[![Website](https://img.shields.io/website?label=hachemwasli.github.io&style=for-the-badge&url=https%3A%2F%2Fhachemwasli.github.io%2F)](https://hachemwasli.github.io/)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
