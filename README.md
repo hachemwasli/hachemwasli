@@ -1,4 +1,4 @@
-<h2>مرحبا (Hallo)🙏🏻, I'm Hachem Wasli! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>مرحبا (Hallo)🙏🏻, I'm Hachem Wasli! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> - [website] 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web Developer Intern at <a href="https://www.majesteye.com/">MajestEye</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -89,5 +89,5 @@ Windows                  17 hrs 5 mins       ███████████�
 
 <hr>
 <!--END_SECTION:waka-->
-
+[website]: https://hachemwasli.github.io/
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
