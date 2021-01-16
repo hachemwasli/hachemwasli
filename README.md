@@ -76,7 +76,7 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <br/><br/>
 
-[![Hachem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://www.linkedin.com/in/hachemwasli)
+![Hachem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hachemwasli&show_icons=true)](https://www.linkedin.com/in/hachemwasli)
 
 <br/>
 
