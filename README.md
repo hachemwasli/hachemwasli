@@ -6,7 +6,7 @@
 </em></p>
 <p><em>Check My <a href="https://hachemwasli.github.io/">Website</a> 
 </em></p>
-<p><em>For personal information protection, the majority of my projects are in private repositories, please contact me when access is needed!! Thnak you !!</a> 
+<p><em>For personal information protection, the majority of my projects are in private repositories, please contact me when access is needed!! Thank you !! !! You can see screenshots and demos on my personal website !! Enjoy !!</a> 
 </em></p>
 
 ## 📫 How to reach me: 
