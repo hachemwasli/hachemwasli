@@ -1,15 +1,15 @@
-<h2>صباح الخير (Hallo)🙏🏻, I'm Hachem Wasli! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>مرحبا (Hallo)🙏🏻, I'm Hachem Wasli! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web Developer Intern at <a href="https://www.majesteye.com/">MajestEye</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p><em>Software Engineering Student at <a href="https://www.hs-schmalkalden.de/">Hochschule Schmalkalden</a> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/HachemOuasli?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-hachem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hachemwasli/)](https://www.linkedin.com/in/hachemwasli/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![GitHub followers](https://img.shields.io/github/followers/hachemwasli?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=hachemwasli.hachemwasli)
+![Waka Readme]()
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
