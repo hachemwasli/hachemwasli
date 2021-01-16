@@ -92,14 +92,7 @@ Windows                  17 hrs 5 mins       ███████████�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachemwasli&show_icons=true)
 
 <br><br>
-<br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?hachemwasli=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hachemwasli=AVS1508&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 
 <hr>
