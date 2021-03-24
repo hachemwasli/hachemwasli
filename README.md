@@ -1,6 +1,6 @@
 <h2>مرحبا (Hallo)🙏🏻, I'm Hachem Wasli! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Web Developer Intern at <a href="https://www.majesteye.com/">MajestEye</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full-Stack Web Developer & Data Engineer at <a href="https://vystem.io/">Vystem</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p><em>Software Engineering Student at <a href="https://www.hs-schmalkalden.de/">Hochschule Schmalkalden</a> 
 </em></p>
