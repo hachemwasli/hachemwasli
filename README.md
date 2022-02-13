@@ -1,8 +1,9 @@
 <h2>مرحبا (Hallo)🙏🏻, I'm Hachem Wasli! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Data Engineer at <a href="https://vystem.io/">Vystem</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Ex.Data Engineer at <a href="https://vystem.io/">Vystem</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em>Software Engineering Student at <a href="https://www.hs-schmalkalden.de/">Hochschule Schmalkalden</a> 
+<p><em>Ex.Software Engineering Student at <a href="https://www.hs-schmalkalden.de/">Hochschule Schmalkalden</a> 
 </em></p>
 <p><em>Check My <a href="https://hachemwasli.github.io/">Website</a> 
 </em></p>
